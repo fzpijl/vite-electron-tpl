@@ -34,7 +34,7 @@
 import {defineComponent, ref} from 'vue';
 
 export default defineComponent({
-  name: 'HelloWorld',
+  name: 'Home',
   setup() {
     const count = ref(0);
 
